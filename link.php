@@ -63,7 +63,7 @@ if (!empty($_GET['url']) && !empty($_GET['nama']) && !empty($_GET['tombol'])) {
                 <?php endif; ?>
             </div>
             <div class="card-footer text-center bg-dark text-white">
-                <small>&copy; 2025 AlgazaDev</small>
+                <small>Copyright &copy; TinyURL LLC</small>
             </div>
         </div>
     </div>
