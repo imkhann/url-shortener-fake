@@ -162,7 +162,7 @@ $nama = $_COOKIE['nama'] ?? 'Cek Resi';
             </form>
         </div>
         <div class="card-footer text-center bg-dark text-white">
-            <small>&copy; 2025 Algaza.my.id</small>
+            <small>Copyright &copy; TinyURL LLC</small>
         </div>
     </div>
 </div>
